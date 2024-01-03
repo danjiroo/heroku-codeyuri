@@ -40,7 +40,7 @@ const projects = [
     title: 'Covid Tracker App',
     src: Covid,
     alt: 'covid tracker app',
-    url: 'https://codeyuri.github.io/covid',
+    url: 'https://codeyuri.github.io/portfolio/covid',
     desc: 'A Coronavirus tracker with graphs and comparison functionality.'
   },
   { 
@@ -48,7 +48,7 @@ const projects = [
     title: 'Mini POS System',
     src: Pos,
     alt: 'mini pos system app',
-    url: 'https://codeyuri.github.io/pos',
+    url: 'https://codeyuri.github.io/portfolio/pos/',
     desc: 'A simple POS static system. And yes, I love teal. Lol'
   },
   { 
