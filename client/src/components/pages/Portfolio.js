@@ -84,7 +84,7 @@ const Portfolio = () => {
       <div className="main_full">
         <LightSpeed direction="right" cascade>
           <h2>Portfolio</h2>
-          <h4>My current and previous projects</h4>
+          <h4>Old 'personal' projects, new projects are not here...</h4>
         </LightSpeed>
         <p>Created with ReactJS, HTML5, CSS3, and JavaScript.</p>
         <ul className="portfolio">

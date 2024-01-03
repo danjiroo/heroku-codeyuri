@@ -16,10 +16,28 @@ const About = () => {
           <h2>Hi, I'm Dan!</h2>
           <h4>A Web Developer | Designer | Otaku</h4>
         </LightSpeed>
-        <p>I am currently working as a Web Developer for a year. It might not sound like much experience, but this has been a huge boost for my career and helped me develop as a professional. I prioritize in web modifications, thus receiving different kind of task daily, especially on layouts using HTML &amp; CSS. Although I may not have an experience yet in making web applications, it didn't stop me to self study more about it.</p>
-        <p>I really love to build web applications that are user-friendly and is useful on a daily basis, if possible. Without a college degree, this wasn't a hindrance for me to learn programming especially on JavaScript language. I watched a lot of programming tutorials and read online tutorials about JavaScript before proceeding with jQuery library and frameworks such as ReactJS.</p>
-        <p>I started from scratch in ReactJS, from building my first simple To-do application to building an application with a global storage, Redux. In my spare time, aside from coding, I love to watch anime series or movies, or just simply chilling and listening to music, because why not?</p>
-        <p>Anyway, I think that's all about me for now. If you have any questions or concerns, feel free to contact me.</p>
+        <p>
+          Living in the programming world for four years now, as a Frontend
+          Developer, I was able to create a faster, modern, and responsive web
+          experience keeping users in mind. I was able to enhance my thinking
+          skills and learn new technologies as a developer.
+        </p>
+        <p>
+          Once a Full Stack Developer, I was. But the force within me collapsed.
+          Kidding. Honestly, it was a challenging job for me and I don't hate
+          doing both actually. However, I can't really replace my love on
+          creating user interfaces and design through code!
+        </p>
+        <p>
+          Aside from coding, I love to have fun with my family! Also love
+          watching anime and reading manga, especially One Piece. I even
+          named my first son, Luffy! Because, why not? I also love listening to
+          anime songs and songs from Twice!
+        </p>
+        <p>
+          Anyway, I think that's all about me for now. If you have any questions
+          or concerns, feel free to contact me.
+        </p>
       </div>
     </div>
   );

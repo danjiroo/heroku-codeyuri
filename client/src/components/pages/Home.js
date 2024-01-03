@@ -14,10 +14,10 @@ const Home = () => {
       </div>
       <div className="main_right">
         <LightSpeed direction="right" cascade>
-          <h2>codeyuri</h2>
+          <h2>danjiro</h2>
           <h4>Welcome to my site!</h4>
         </LightSpeed>
-        <p>This site contains my current and previous projects created with HTML5, CSS3, JavaScript &amp; and ReactJS.</p>
+        <p>This site contains my current and previous projects created with ReactJS.</p>
         <p>Also, if you would like to know me more, click <NavLink to="/about">here!</NavLink></p>
         <p>Happy viewing!</p>
       </div>

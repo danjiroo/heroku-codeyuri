@@ -2,6 +2,8 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 import Logo from "../../assets/images/logo.png";
+import Facebook from "../../assets/images/fb.png";
+import Messenger from "../../assets/images/ms.png";
 import Loader from "./Loader";
 
 const Header = () => {
@@ -23,8 +25,12 @@ const Header = () => {
                 <mark>0905-813-2586</mark>
               </div>
               <div className="social_media">
-                <a href="https://www.facebook.com/mulespro" target="_blank" rel="noopener noreferrer"></a>
-                <a href="https://m.me/mulespro" target="_blank" rel="noopener noreferrer"></a>
+                <a href="https://www.facebook.com/mulespro" target="_blank" rel="noopener noreferrer">
+                  <img  src={Facebook} alt='facebook logo'/>
+                </a>
+                <a href="https://m.me/mulespro" target="_blank" rel="noopener noreferrer">
+                <img  src={Messenger} alt='messenger logo'/>
+                </a>
               </div>
             </div>
           </div>
